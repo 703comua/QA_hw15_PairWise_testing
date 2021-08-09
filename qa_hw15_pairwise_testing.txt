@@ -1,0 +1,7 @@
+Brand: Asus, Samsung, Apple, Huawei
+Diagonal: 4, 5, 5, 6
+RAM: 3000, 4000, 5000, 6000 
+Number of main cameras: 1, 2, 3, 4
+Display resolution: 4K UHD (3840x2160), Full HD (1920x1080), HD (1280x720), WQHD (2560х1440)
+Matrix type: AMOLED, Dynamic AMOLED, Fluid AMOLED, IGZO, IPS, LCD, LTPS, OGS, OLED
+Screen refresh rate: 120 Hz, 144 Hz, 60 Hz, 90 Hz

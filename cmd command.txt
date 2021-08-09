@@ -1,0 +1,9 @@
+pict.exe qa_hw15_pairwise_testing.txt > qa_hw15_pairwise_testing.xls
+
+echo "# QA_hw15_PairWise_testing" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/703comua/QA_hw15_PairWise_testing.git
+git push -u origin main
